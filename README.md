@@ -3,6 +3,8 @@ Output a .csv file that has all the place of interest that recomment to the user
 
 In  order to run the program, please have these libraries downloaded:
 1. PIL
+2. Pandas
+3. Numpy
 
 Please use one of the commands below and see the output in output.csv
 

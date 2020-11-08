@@ -1,0 +1,15 @@
+------------------
+Order Details
+-----------------
+Order ID: 2086921
+Date: 20200728
+
+
+----------------------
+Feature Types
+-----------------------
+ - HelloBC Activities and Attractions Listing in directory HLLBC_ATT
+
+----------------------------
+Packaged Products
+----------------------------
